@@ -1,6 +1,6 @@
 {
     "name": "fasaro/payment_method_html",
-    "description": HTML tags to Bank transfer Payment Method for Magento 2",
+    "description": "HTML tags to Bank transfer Payment Method for Magento 2",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
