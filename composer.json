@@ -13,8 +13,6 @@
         ],
         "psr-4": {
             "fasaro\\Fasaro_PaymentHtml\\": ""
-        },
-    "minimum-stability": "dev",
-    "prefer-stable": true    
+        }, 
     }
 }
